@@ -6,7 +6,7 @@ With the Paper “Using Global Land Cover Product as Prompt for Cropland Mapping
 ## Acknowledgments
 
 
-This algorithm is contributed by **Xiangjiang Laboratory**, developed with financial support from the  **Open Project of Xiangjiang Laboratory(Project No. 22XJ03007)**. 
+This algorithm is contributed by **Xiangjiang Laboratory**, This work was supported in part by the **Open Project of Xiangjiang Laboratory under Grant 22XJ03007**.
 
 We extend our thanks to all contributors and collaborators who have invested their time and expertise to bring this project to fruition. Your dedication and hard work are greatly appreciated.
 
