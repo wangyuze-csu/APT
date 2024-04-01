@@ -3,6 +3,8 @@ Auto-prompting method of cropland extraction via SAM
 
 With the Paper “Using Global Land Cover Product as Prompt for Cropland Mapping via Visual Foundation Model”
 
+https://arxiv.org/abs/2310.10219
+
 ## Acknowledgments
 
 
